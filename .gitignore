@@ -1,0 +1,15 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Downloaded videos and temporary files
+*.mp4
+*.mp3
+*.webm
+*.m4a
+*.part
+
+# OS specific files
+.DS_Store
+Thumbs.db
